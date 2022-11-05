@@ -4,10 +4,20 @@
     box-sizing: border-box;
 }
 
+body {
+    background-color: azure;
+}
+
 h1 {
     margin: 2rem;
     text-align: center;
     font-size: 2rem;
+}
+
+#grid {
+    display: grid;
+    margin: 2rem;
+    background-color: #fff;
 }
 
 /* attach the footer at the bottom */
