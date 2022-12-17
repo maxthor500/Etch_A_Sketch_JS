@@ -16,8 +16,8 @@ h1 {
 
 #grid {
     display: grid;
-    margin: 2rem;
     background-color: #fff;
+    box-shadow: rgba(0, 0, 0, 0.24) 0 3px 8px;
 }
 
 /* attach the footer at the bottom */
